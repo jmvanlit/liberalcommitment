@@ -10,7 +10,7 @@ title: Liberal Commitment
 email: joep.vanlit@ru.nl
 description: A research project into citizens' commitment to liberal democracy across Europe
 baseurl: "/liberalcommitment" # the subpath of your site, e.g. /blog
-url: "https://jmvanlit.github.io/liberalcommitment" # the base hostname & protocol for your site
+url: "https://jmvanlit.github.io/" # the base hostname & protocol for your site
 
 # Social settings
 500px_url: 
