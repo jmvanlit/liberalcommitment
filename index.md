@@ -6,8 +6,7 @@ title: Hyperspace by HTML5 UP
 <section id="intro" class="wrapper style1 fullscreen fade-up">
 	<div class="inner">
 		<h1>LIBCOM: Citizens' Commitment to Liberal Democracy</h1>
-		<p>A research project at the University of Fribourg into citizens' commitment to liberal democracy across Europe, funded by the <a href="[http://html5up.net](https://data.snf.ch/grants/grant/10005358)">Swiss National Science Foundation</a>.<br />
-		and supervision of <a href="[http://html5up.net/license](https://www.unifr.ch/directory/en/people/366435/28485)">prof. Natasha Wunsch</a>.</p>
+		<p>A research project at the University of Fribourg into citizens' commitment to liberal democracy across Europe, funded by the <a href="[http://html5up.net](https://data.snf.ch/grants/grant/10005358)">Swiss National Science Foundation</a>, and under supervision of <a href="[http://html5up.net/license](https://www.unifr.ch/directory/en/people/366435/28485)">prof. Natasha Wunsch</a>.</p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more</a></li>
 		</ul>
@@ -24,6 +23,16 @@ title: Hyperspace by HTML5 UP
 				<span class="icon major fa-code"></span>
 				<h3>Working Package 1</h3>
 				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<h4>Preprints and preregistrations</h4>
+				<ul>
+					<li><a href="#">Preprint title 1</a></li>
+					<li><a href="#">Preprint title 2</a></li>
+				</ul>
+				<h4>Publications</h4>
+				<ul>
+					<li><a href="#">Publication title 1</a></li>
+					<li><a href="#">Publication title 2</a></li>
+				</ul>
 			</section>
 			<section>
 				<span class="icon major fa-lock"></span>
