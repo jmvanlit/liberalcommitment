@@ -9,13 +9,13 @@ title: Hyperspace by HTML5 UP
 		<p>A research project at the University of Fribourg into citizens' commitment to liberal democracy across Europe, funded by the <a href="[http://html5up.net](https://data.snf.ch/grants/grant/10005358)">Swiss National Science Foundation</a>.<br />
 		and supervision of <a href="[http://html5up.net/license](https://www.unifr.ch/directory/en/people/366435/28485)">prof. Natasha Wunsch</a>.</p>
 		<ul class="actions">
-			<li><a href="#two" class="button scrolly">Learn more</a></li>
+			<li><a href="#one" class="button scrolly">Learn more</a></li>
 		</ul>
 	</div>
 </section>
 
-<!-- Two -->
-<section id="two" class="wrapper style3 fade-up">
+<!-- One -->
+<section id="one" class="wrapper style3 fade-up">
 	<div class="inner">
 		<h2>The research project</h2>
 		<p>Some generic description. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
@@ -57,8 +57,8 @@ title: Hyperspace by HTML5 UP
 	</div>
 </section>
 
-<!-- One -->
-<section id="one" class="wrapper style2 spotlights">
+<!-- Two -->
+<section id="two" class="wrapper style2 spotlights">
 	<section>
 		<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
 		<div class="content">
