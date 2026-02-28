@@ -6,7 +6,7 @@ title: Hyperspace by HTML5 UP
 <section id="intro" class="wrapper style1 fullscreen fade-up">
 	<div class="inner">
 		<h1>LIBCOM: Citizens' Commitment to Liberal Democracy</h1>
-		<p>A research project at the University of Fribourg into citizens' commitment to liberal democracy across Europe, funded by the <a href="[http://html5up.net](https://data.snf.ch/grants/grant/10005358)">Swiss National Science Foundation</a>, and under supervision of <a href="[http://html5up.net/license](https://www.unifr.ch/directory/en/people/366435/28485)">prof. Natasha Wunsch</a>.</p>
+		<p>A research project at the University of Fribourg into citizens' commitment to liberal democracy across Europe, funded by the <a href="https://data.snf.ch/grants/grant/10005358">Swiss National Science Foundation</a>, and under supervision of <a href="https://www.unifr.ch/directory/en/people/366435/28485">prof. Natasha Wunsch</a>.</p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more</a></li>
 		</ul>
@@ -87,7 +87,7 @@ title: Hyperspace by HTML5 UP
 				<h2>dr. Daniel Sandu</h2>
 				<p>Postdoctoral Researcher. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
+					<li><a href="https://www.danisandu.eu/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -99,7 +99,7 @@ title: Hyperspace by HTML5 UP
 				<h2>dr. Joep van Lit</h2>
 				<p>Postdoctoral Researcher. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
+					<li><a href="https://www.jmvanlit.nl" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
