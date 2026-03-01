@@ -2578,8 +2578,8 @@
 					color: #3e4094;
 				}
 
-				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+				.wrapper.style3 .icon.major:before { 
+					color: #4D7EA8; \\ b74e91 JOEP LIBCOM icon in working packages
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3261,7 +3261,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #82C09A; \\ 5052b5 JOEP LIBCOM background team members
 		}
 
 		.wrapper.style2-alt {
@@ -3273,7 +3273,7 @@
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75; \\ 953d75 JOEP LIBCOM
+			background-color: #953d75; \\ 953d75 JOEP LIBCOM doesn't know what this does?
 		}
 
 		.wrapper.fullscreen {
