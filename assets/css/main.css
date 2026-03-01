@@ -3269,11 +3269,11 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #ff00ff; \\ b74e91 JOEP LIBCOM
+			background-color: #4D7EA8; \\ b74e91 JOEP LIBCOM background working packages
 		}
 
 		.wrapper.style3-alt {
-			background-color: #00ffff; \\ 953d75 JOEP LIBCOM
+			background-color: #953d75; \\ 953d75 JOEP LIBCOM
 		}
 
 		.wrapper.fullscreen {
@@ -3534,7 +3534,7 @@
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #1F3A5F; // 312450 JOEP LIBCOM
+		background: #272932; // 312450 JOEP LIBCOM background sidebar
 		cursor: default;
 		height: 100vh;
 		left: 0;
