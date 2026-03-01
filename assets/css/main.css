@@ -3884,7 +3884,7 @@
 
 	#intro {
 		background-attachment: fixed;
-		background-image: url("assets/css/images/pexels-gdtography-277628-911738.jpg"); // images/intro.svg JOEP LIBCOM header image
+		background-image: url("images/intro.svg"); // images/intro.svg JOEP LIBCOM header image
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
