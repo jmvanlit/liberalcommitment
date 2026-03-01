@@ -41,12 +41,12 @@ title: Hyperspace by HTML5 UP
 			</section>
 			<section>
 				<span class="icon major fa-cog"></span>
-				<h3>Sed erat ullam corper</h3>
+				<h3>Working Package 3</h3>
 				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
 			</section>
 			<section>
 				<span class="icon major fa-desktop"></span>
-				<h3>Veroeros quis lorem</h3>
+				<h3>Related Projects by the Team</h3>
 				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
 			</section>
 			<section>
