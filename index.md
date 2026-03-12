@@ -77,9 +77,7 @@ title: Hyperspace by HTML5 UP
 				<h2>Daniel Sandu, PhD</h2>
 				<p>Postdoctoral Researcher. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 				<ul class="actions">
-					<li><a href="https://www.danisandu.eu/" class="button">Visit Dani's personal website</a></li>
-				</ul>
-				<ul class="actions">
+					<li><a href="https://www.danisandu.eu/" class="button special">Visit Dani's personal website</a></li>
 					<li><a href="mailto:daniel.sandu@unifr.ch" class="button">Contact Dani</a></li>
 				</ul>
 			</div>
@@ -92,9 +90,7 @@ title: Hyperspace by HTML5 UP
 				<h2>Joep van Lit, PhD</h2>
 				<p>Postdoctoral Researcher. Joep focuses on the behavioral consequences of citizens' commitment to liberal democracy, using cross-national surveys and experiments.</p>
 				<ul class="actions">
-					<li><a href="https://www.jmvanlit.nl" class="button">Vist Joep's personal website/a></li>
-				</ul>
-				<ul class="actions">
+					<li><a href="https://www.jmvanlit.nl" class="button special">Vist Joep's personal website/a></li>
 					<li><a href="mailto:joep.vanlit@unifr.ch" class="button">Contact Joep</a></li>
 				</ul>
 			</div>
@@ -107,7 +103,8 @@ title: Hyperspace by HTML5 UP
 				<h2>Hannah Groennou, MSc</h2>
 				<p>Doctoral Candidate. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 				<ul class="actions">
-					<li><a href="https://www.unifr.ch/directory/en/people/447440/1c491" class="button">Visit Hannah's UniFr-profile</a></li>
+					<li><a href="https://www.unifr.ch/directory/en/people/447440/1c491" class="button special">Visit Hannah's UniFr-profile</a>
+					<li><a href="mailto:hannah.groennou@unifr.ch" class="button">Contact Hannah</a></li></li>
 				</ul>
 			</div>
 		</div>
