@@ -48,7 +48,7 @@ title: Hyperspace by HTML5 UP
 				<span class="icon major fa-desktop"></span>
 				<h3>Related Projects by the Team</h3>
 				<ul>
-					<li>Wunsch, Van Lit, and Petrova. <a href = "https://osf.io/preprints/osf/eqnxs_v1">Justifying the Unjustifiable: In-party Cues and Citizen Acceptance of Democratic Transgressions</a>, OSF Preprint</li>
+					<li>Wunsch and Van Lit, with Petrova. <a href = "https://osf.io/preprints/osf/eqnxs_v1">Justifying the Unjustifiable: In-party Cues and Citizen Acceptance of Democratic Transgressions</a>, OSF Preprint</li>
 					<li><a href="#">Publication title 2</a></li>
 				</ul>
 			</section>
