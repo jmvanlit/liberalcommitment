@@ -47,7 +47,10 @@ title: Hyperspace by HTML5 UP
 			<section>
 				<span class="icon major fa-desktop"></span>
 				<h3>Related Projects by the Team</h3>
-				<p>Wunsch, Van Lit, and Petrova. <a href = "https://osf.io/preprints/osf/eqnxs_v1">Justifying the Unjustifiable: In-party Cues and Citizen Acceptance of Democratic Transgressions</a>, OSF Preprint</p>
+				<ul>
+					<li><p>Wunsch, Van Lit, and Petrova. <a href = "https://osf.io/preprints/osf/eqnxs_v1">Justifying the Unjustifiable: In-party Cues and Citizen Acceptance of Democratic Transgressions</a>, OSF Preprint</p></li>
+					<li><a href="#">Publication title 2</a></li>
+				</ul>
 			</section>
 		</div>
 		<ul class="actions">
@@ -65,7 +68,9 @@ title: Hyperspace by HTML5 UP
 				<h2>prof. Natasha Wunsch</h2>
 				<p>Principal Investigator. Hasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 				<ul class="actions">
-					<li><a href="https://www.unifr.ch/directory/en/people/366435/28485" class="button">Visit Natasha's UniFr-profile</a></li>
+					<li><a href="https://www.unifr.ch/directory/en/people/366435/28485" class="button special">Visit Natasha's UniFr-profile</a></li>
+					<li><a href="mailto:natasha.wunsch@unifr.ch" class="button">Contact Natasha</a></li>
+
 				</ul>
 			</div>
 		</div>
