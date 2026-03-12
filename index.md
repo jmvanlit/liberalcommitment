@@ -66,11 +66,10 @@ title: Hyperspace by HTML5 UP
 		<div class="content">
 			<div class="inner">
 				<h2>prof. Natasha Wunsch</h2>
-				<p>Principal Investigator. Hasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<p>**Principal Investigator**. Hasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 				<ul class="actions">
 					<li><a href="https://www.unifr.ch/directory/en/people/366435/28485" class="button special">Visit Natasha's UniFr-profile</a></li>
 					<li><a href="mailto:natasha.wunsch@unifr.ch" class="button">Contact Natasha</a></li>
-
 				</ul>
 			</div>
 		</div>
@@ -80,7 +79,7 @@ title: Hyperspace by HTML5 UP
 		<div class="content">
 			<div class="inner">
 				<h2>Daniel Sandu, PhD</h2>
-				<p>Postdoctoral Researcher. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<p>**Postdoctoral Researcher**. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 				<ul class="actions">
 					<li><a href="https://www.danisandu.eu/" class="button special">Visit Dani's personal website</a></li>
 					<li><a href="mailto:daniel.sandu@unifr.ch" class="button">Contact Dani</a></li>
@@ -93,9 +92,9 @@ title: Hyperspace by HTML5 UP
 		<div class="content">
 			<div class="inner">
 				<h2>Joep van Lit, PhD</h2>
-				<p>Postdoctoral Researcher. Joep focuses on the behavioral consequences of citizens' commitment to liberal democracy, using cross-national surveys and experiments.</p>
+				<p>**Postdoctoral Researcher**. Joep focuses on the behavioral consequences of citizens' commitment to liberal democracy, using cross-national surveys and experiments.</p>
 				<ul class="actions">
-					<li><a href="https://www.jmvanlit.nl" class="button special">Vist Joep's personal website/a></li>
+					<li><a href="https://www.jmvanlit.nl" class="button special">Vist Joep's personal website</a></li>
 					<li><a href="mailto:joep.vanlit@unifr.ch" class="button">Contact Joep</a></li>
 				</ul>
 			</div>
@@ -106,10 +105,10 @@ title: Hyperspace by HTML5 UP
 		<div class="content">
 			<div class="inner">
 				<h2>Hannah Groennou, MSc</h2>
-				<p>Doctoral Candidate. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<p>**Doctoral Candidate**. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 				<ul class="actions">
-					<li><a href="https://www.unifr.ch/directory/en/people/447440/1c491" class="button special">Visit Hannah's UniFr-profile</a>
-					<li><a href="mailto:hannah.groennou@unifr.ch" class="button">Contact Hannah</a></li></li>
+					<li><a href="https://www.unifr.ch/directory/en/people/447440/1c491" class="button special">Visit Hannah's UniFr-profile</a></li>
+					<li><a href="mailto:hannah.groennou@unifr.ch" class="button">Contact Hannah</a></li>
 				</ul>
 			</div>
 		</div>
