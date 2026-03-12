@@ -47,17 +47,7 @@ title: Hyperspace by HTML5 UP
 			<section>
 				<span class="icon major fa-desktop"></span>
 				<h3>Related Projects by the Team</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-			</section>
-			<section>
-				<span class="icon major fa-chain"></span>
-				<h3>Urna quis bibendum</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-			</section>
-			<section>
-				<span class="icon major fa-diamond"></span>
-				<h3>Aliquam urna dapibus</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<p>Wunsch, Van Lit, and Petrova. <a href = "https://osf.io/preprints/osf/eqnxs_v1">Justifying the Unjustifiable: In-party Cues and Citizen Acceptance of Democratic Transgressions</a>, OSF Preprint</p>
 			</section>
 		</div>
 		<ul class="actions">
@@ -75,7 +65,7 @@ title: Hyperspace by HTML5 UP
 				<h2>prof. Natasha Wunsch</h2>
 				<p>Principal Investigator. Hasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
+					<li><a href="https://www.unifr.ch/directory/en/people/366435/28485" class="button">Visit Natasha's UniFr-profile</a></li>
 				</ul>
 			</div>
 		</div>
@@ -84,10 +74,13 @@ title: Hyperspace by HTML5 UP
 		<a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>dr. Daniel Sandu</h2>
+				<h2>Daniel Sandu, PhD</h2>
 				<p>Postdoctoral Researcher. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 				<ul class="actions">
-					<li><a href="https://www.danisandu.eu/" class="button">Learn more</a></li>
+					<li><a href="https://www.danisandu.eu/" class="button">Visit Dani's personal website</a></li>
+				</ul>
+				<ul class="actions">
+					<li><a href="mailto:daniel.sandu@unifr.ch" class="button">Contact Dani</a></li>
 				</ul>
 			</div>
 		</div>
@@ -96,10 +89,13 @@ title: Hyperspace by HTML5 UP
 		<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>dr. Joep van Lit</h2>
-				<p>Postdoctoral Researcher. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<h2>Joep van Lit, PhD</h2>
+				<p>Postdoctoral Researcher. Joep focuses on the behavioral consequences of citizens' commitment to liberal democracy, using cross-national surveys and experiments.</p>
 				<ul class="actions">
-					<li><a href="https://www.jmvanlit.nl" class="button">Learn more</a></li>
+					<li><a href="https://www.jmvanlit.nl" class="button">Vist Joep's personal website/a></li>
+				</ul>
+				<ul class="actions">
+					<li><a href="mailto:joep.vanlit@unifr.ch" class="button">Contact Joep</a></li>
 				</ul>
 			</div>
 		</div>
@@ -111,7 +107,7 @@ title: Hyperspace by HTML5 UP
 				<h2>Hannah Groennou, MSc</h2>
 				<p>Doctoral Candidate. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
+					<li><a href="https://www.unifr.ch/directory/en/people/447440/1c491" class="button">Visit Hannah's UniFr-profile</a></li>
 				</ul>
 			</div>
 		</div>
