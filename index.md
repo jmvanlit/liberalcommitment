@@ -52,7 +52,6 @@ title: Hyperspace by HTML5 UP
 					<li><strong>N. Wunsch</strong>, with M. Jacob and L. Derksen (2025)/ <a href = "https://doi.org/10.1017/S0007123424000711">The Demand Side of Democratic Backsliding: How Divergent Understandings of Democracy Shape Political Choice</a>, British Journal of Political Science, Open Access.</li>
 					<li><strong>N. Wunsch</strong>, with T. Gessler (2025). <a href = "https://doi.org/10.1111/1475-6765.12751">A new regime divide? Democratic backsliding, attitudes towards democracy and affective polarization</a>, European Journal of Political Research, Open Access</li>
 					<li><strong>> Wunsch</strong> and <strong>J. van Lit</strong>a, with T. Petrova. <a href = "https://osf.io/preprints/osf/eqnxs_v1">Justifying the Unjustifiable: In-party Cues and Citizen Acceptance of Democratic Transgressions</a>, OSF Preprint</li>
-					<li><a href="#">Publication title 2</a></li>
 				</ul>
 			</section>
 		</div>
