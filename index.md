@@ -51,7 +51,7 @@ title: Hyperspace by HTML5 UP
 					<li><strong>N. Wunsch</strong> (2025). <a href= "https://academic.oup.com/book/60927">Democratic Commitment: Why Citizens Tolerate Democratic Backsliding</a>, Oxford University Press, Open Access.</li>
 					<li><strong>N. Wunsch</strong>, with M. Jacob and L. Derksen (2025)/ <a href = "https://doi.org/10.1017/S0007123424000711">The Demand Side of Democratic Backsliding: How Divergent Understandings of Democracy Shape Political Choice</a>, British Journal of Political Science, Open Access.</li>
 					<li><strong>N. Wunsch</strong>, with T. Gessler (2025). <a href = "https://doi.org/10.1111/1475-6765.12751">A new regime divide? Democratic backsliding, attitudes towards democracy and affective polarization</a>, European Journal of Political Research, Open Access</li>
-					<li><strong>> Wunsch</strong> and <strong>J. van Lit</strong>a, with T. Petrova. <a href = "https://osf.io/preprints/osf/eqnxs_v1">Justifying the Unjustifiable: In-party Cues and Citizen Acceptance of Democratic Transgressions</a>, OSF Preprint</li>
+					<li><strong> Wunsch</strong> and <strong>J. van Lit</strong>, with T. Petrova. <a href = "https://osf.io/preprints/osf/eqnxs_v1">Justifying the Unjustifiable: In-party Cues and Citizen Acceptance of Democratic Transgressions</a>, OSF Preprint</li>
 				</ul>
 			</section>
 		</div>
@@ -77,7 +77,7 @@ title: Hyperspace by HTML5 UP
 		</div>
 	</section>
 	<section>
-		<a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
+		<a href="#" class="image"><img src="images/dani-sandu.jpg" alt="" data-position="top center" /></a>
 		<div class="content">
 			<div class="inner">
 				<h2>Daniel Sandu, PhD</h2>
