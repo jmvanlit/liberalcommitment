@@ -65,7 +65,7 @@ title: Hyperspace by HTML5 UP
 <!-- Two -->
 <section id="two" class="wrapper style2 spotlights">
 	<section>
-		<a href="#" class="image"><img src="images/natasha-wunsch.jpg" alt="" data-position="center center" /></a>
+		<a href="#" class="image"><img src="images/natasha-wunsch.JPG" alt="" data-position="center center" /></a>
 		<div class="content">
 			<div class="inner">
 				<h2>prof. Natasha Wunsch</h2>
