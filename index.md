@@ -48,7 +48,10 @@ title: Hyperspace by HTML5 UP
 				<span class="icon major fa-desktop"></span>
 				<h3>Related Projects by the Team</h3>
 				<ul>
-					<li>Wunsch and Van Lit, with Petrova. <a href = "https://osf.io/preprints/osf/eqnxs_v1">Justifying the Unjustifiable: In-party Cues and Citizen Acceptance of Democratic Transgressions</a>, OSF Preprint</li>
+					<li><strong>N. Wunsch</strong> (2025). <a href= "https://academic.oup.com/book/60927">Democratic Commitment: Why Citizens Tolerate Democratic Backsliding</a>, Oxford University Press, Open Access.</li>
+					<li><strong>N. Wunsch</strong>, with M. Jacob and L. Derksen (2025)/ <a href = "https://doi.org/10.1017/S0007123424000711">The Demand Side of Democratic Backsliding: How Divergent Understandings of Democracy Shape Political Choice</a>, British Journal of Political Science, Open Access.</li>
+					<li><strong>N. Wunsch</strong>, with T. Gessler (2025). <a href = "https://doi.org/10.1111/1475-6765.12751">A new regime divide? Democratic backsliding, attitudes towards democracy and affective polarization</a>, European Journal of Political Research, Open Access</li>
+					<li><strong>> Wunsch</strong> and <strong>J. van Lit</strong>a, with T. Petrova. <a href = "https://osf.io/preprints/osf/eqnxs_v1">Justifying the Unjustifiable: In-party Cues and Citizen Acceptance of Democratic Transgressions</a>, OSF Preprint</li>
 					<li><a href="#">Publication title 2</a></li>
 				</ul>
 			</section>
@@ -66,7 +69,7 @@ title: Hyperspace by HTML5 UP
 		<div class="content">
 			<div class="inner">
 				<h2>prof. Natasha Wunsch</h2>
-				<p><strong>Principal Investigator</strong>. Hasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<p><strong>Principal Investigator</strong>. Natasha Wunsch is Professor for European Studies and and PI of the SNSF-funded project "Liberal Democratic Commitment in Europe" (LibDemEU). Her research focuses on democratisation and democratic backsliding and combines survey-based approaches, discourse analysis and comparative methods including focus groups and interviews. </p>
 				<ul class="actions">
 					<li><a href="https://www.unifr.ch/directory/en/people/366435/28485" class="button special">Visit Natasha's UniFr-profile</a></li>
 					<li><a href="mailto:natasha.wunsch@unifr.ch" class="button">Contact Natasha</a></li>
