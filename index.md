@@ -6,7 +6,7 @@ title: Hyperspace by HTML5 UP
 <section id="intro" class="wrapper style1 fullscreen fade-up">
 	<div class="inner">
 		<img src="images/logo-without-site.png" alt="DEMCOM - Université de Fribourg" style="max-width: 50%; margin-bottom: 1.5rem; display: block;" />
-		<h1>LIBCOM: Citizens' Commitment to Liberal Democracy</h1>
+		<h1>Researching Citizens' Commitment to Liberal Democracy</h1>
 		<p>A research project at the University of Fribourg into citizens' commitment to liberal democracy across Europe, funded by the <a href="https://data.snf.ch/grants/grant/10005358">Swiss National Science Foundation</a>, and under supervision of <a href="https://www.unifr.ch/directory/en/people/366435/28485">prof. Natasha Wunsch</a>.</p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more</a></li>
