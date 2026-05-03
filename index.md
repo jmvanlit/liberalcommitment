@@ -16,7 +16,7 @@ title: Hyperspace by HTML5 UP
 </section>
 
 <!-- One -->
-<section id="one" class="wrapper style3 fade-up">
+<section id="one" class="wrapper style2 fade-up">
 	<div class="inner">
 		<h2>The research project</h2>
 		<p>Liberal democracy is under pressure worldwide. Illiberal actors are gaining support for a platform that directly challenges some central liberal democratic principles. Where such actors gain access to government, they frequently proceed to dismantle executive and erode democracy. So why do citizens often fail to resist the simultaneous rise of illiberalism and democratic backsliding by upholding liberal democratic principles at the ballot box? Building on the findings from a previous Ambizione project (2019-2024), this new SNSF-funded project (2025-2029) will investigate the relevance and heterogeneity of mass attitudes towards democracy as a fundamental factor explaining citizens’ responses to emerging threats to liberal democracy. <a href = "#two">The project team</a> will theorize and empirically explore variation in liberal democratic commitment as a way to resolve the apparent paradox between mass support for democracy and citizens’ differential willingness to tolerate or even openly endorse political actors who challenge core principles of liberal democracy.</p>
@@ -56,7 +56,7 @@ title: Hyperspace by HTML5 UP
 </section>
 
 <!-- Two -->
-<section id="two" class="wrapper style2 spotlights">
+<section id="two" class="wrapper style3 spotlights">
 	<section>
 		<a href="#" class="image"><img src="images/natasha-wunsch.JPG" alt="" data-position="center center" /></a>
 		<div class="content">
@@ -112,7 +112,7 @@ title: Hyperspace by HTML5 UP
 </section>
 
 <!-- One-B: Related Projects -->
-<section id="three" class="wrapper style1 fade-up">
+<section id="three" class="wrapper style2 fade-up">
 	<div class="inner">
 		<h2>Related Projects by the Team</h2>
 		<ul>
