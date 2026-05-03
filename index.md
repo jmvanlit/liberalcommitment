@@ -18,7 +18,7 @@ title: Hyperspace by HTML5 UP
 <section id="one" class="wrapper style3 fade-up">
 	<div class="inner">
 		<h2>The research project</h2>
-		<p>Liberal democracy is under pressure worldwide. Illiberal actors are gaining support for a platform that directly challenges some central liberal democratic principles. Where such actors gain access to government, they frequently proceed to dismantle executive and erode democracy. So why do citizens often fail to resist the simultaneous rise of illiberalism and democratic backsliding by upholding liberal democratic principles at the ballot box? Building on the findings from a previous Ambizione project (2019-2024), this new SNSF-funded project (2025-2029) will investigate the relevance and heterogeneity of mass attitudes towards democracy as a fundamental factor explaining citizens’ responses to emerging threats to liberal democracy. The project team will theorize and empirically explore variation in liberal democratic commitment as a way to resolve the apparent paradox between mass support for democracy and citizens’ differential willingness to tolerate or even openly endorse political actors who challenge core principles of liberal democracy. The project will tackle three dimensions:</p>
+		<p>Liberal democracy is under pressure worldwide. Illiberal actors are gaining support for a platform that directly challenges some central liberal democratic principles. Where such actors gain access to government, they frequently proceed to dismantle executive and erode democracy. So why do citizens often fail to resist the simultaneous rise of illiberalism and democratic backsliding by upholding liberal democratic principles at the ballot box? Building on the findings from a previous Ambizione project (2019-2024), this new SNSF-funded project (2025-2029) will investigate the relevance and heterogeneity of mass attitudes towards democracy as a fundamental factor explaining citizens’ responses to emerging threats to liberal democracy. <a href = "#two">The project team</a>a> will theorize and empirically explore variation in liberal democratic commitment as a way to resolve the apparent paradox between mass support for democracy and citizens’ differential willingness to tolerate or even openly endorse political actors who challenge core principles of liberal democracy. The project will tackle three dimensions:</p>
 		<div class="features">
 			<section>
 				<span class="icon major fa-code"></span>
@@ -37,13 +37,13 @@ title: Hyperspace by HTML5 UP
 			</section>
 			<section>
 				<span class="icon major fa-lock"></span>
-				<h3>Working Package 2</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<h3>Democratic commitment as political identity (Working Package 2)</h3>
+				<p>How does variation in citizens’ democratic commitment relate to their political identities? And to what extent do elections affect the salience of democratic attitudes for citizens’ group identification? </p>
 			</section>
 			<section>
 				<span class="icon major fa-cog"></span>
-				<h3>Working Package 3</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<h3>Behavioural consequences of democratic commitment (Working Package 3)</h3>
+				<p>To what extent do varying levels of liberal democratic commitment affect citizens’ political behaviour?</p>
 			</section>
 			<section>
 				<span class="icon major fa-desktop"></span>
@@ -83,7 +83,7 @@ title: Hyperspace by HTML5 UP
 		<div class="content">
 			<div class="inner">
 				<h2>Daniel Sandu, PhD</h2>
-				<p><strong>Postdoctoral Researcher</strong>. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<p><strong>Postdoctoral Researcher</strong>. Dani Sandu completed his PhD at the European University Institute (Florence, Italy) and studies social and political identities. He uses experimental and quasi-experimental methods and am also a skeptical user of text-as-data approaches.</p>
 				<ul class="actions">
 					<li><a href="https://www.danisandu.eu/" class="button special">Visit Dani's personal website</a></li>
 					<li><a href="mailto:daniel.sandu@unifr.ch" class="button">Contact Dani</a></li>
@@ -96,7 +96,7 @@ title: Hyperspace by HTML5 UP
 		<div class="content">
 			<div class="inner">
 				<h2>Joep van Lit, PhD</h2>
-				<p><strong>Postdoctoral Researcher</strong>. Joep focuses on the behavioral consequences of citizens' commitment to liberal democracy, using cross-national surveys and experiments.</p>
+				<p><strong>Postdoctoral Researcher</strong>. Joep van Lit completed his PhD at Radboud University (Nijmegen, the Netherlands) and investigates the resilience and defence of democracy, especially against incumbents who challenge it. He focuses on the behavioral consequences of citizens' commitment to liberal democracy, using cross-national surveys and experiments.</p>
 				<ul class="actions">
 					<li><a href="https://www.jmvanlit.nl" class="button special">Vist Joep's personal website</a></li>
 					<li><a href="mailto:joep.vanlit@unifr.ch" class="button">Contact Joep</a></li>
@@ -109,7 +109,7 @@ title: Hyperspace by HTML5 UP
 		<div class="content">
 			<div class="inner">
 				<h2>Hannah Groennou, MSc</h2>
-				<p><strong>Doctoral Candidate</strong>. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<p><strong>Doctoral Candidate</strong>. Hannah Groennou finished her Research Master in Social and Cultural Sciences at Radboud University (Nijmegen, the Netherlands).</p>
 				<ul class="actions">
 					<li><a href="https://www.unifr.ch/directory/en/people/447440/1c491" class="button special">Visit Hannah's UniFr-profile</a></li>
 					<li><a href="mailto:hannah.groennou@unifr.ch" class="button">Contact Hannah</a></li>
