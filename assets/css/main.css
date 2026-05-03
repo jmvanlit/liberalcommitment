@@ -2571,7 +2571,7 @@
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: ##DD614A; \\ JOEP DEMCOM icon in working packages 5052b5
+					color: #DD614A; \\ JOEP DEMCOM icon in working packages 5052b5
 				}
 
 				.wrapper.style2-alt .icon.major:before {
@@ -3253,11 +3253,11 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #099197; \\ JOEP DEMOCOM GREEN 5e42a6 
+			background-color: #410B13; \\ JOEP DEMCOM Purple 5e42a6 
 		}
 
 		.wrapper.style1-alt {
-			background-color: #099197; \\ JOEP DEMOCOM GREEN 493382 
+			background-color: #099197; \\ JOEP DEMCOM GREEN 493382 
 		}
 
 		.wrapper.style2 {
@@ -3534,7 +3534,7 @@
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #099197; \\ JOEP DEMOCOM GREEN 312450 
+		background: #410B13; \\ JOEP DEMCOM GREEN 312450 
 		cursor: default;
 		height: 100vh;
 		left: 0;
