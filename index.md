@@ -22,7 +22,7 @@ title: Hyperspace by HTML5 UP
 		<p>Liberal democracy is under pressure worldwide. Illiberal actors are gaining support for a platform that directly challenges some central liberal democratic principles. Where such actors gain access to government, they frequently proceed to dismantle executive and erode democracy. So why do citizens often fail to resist the simultaneous rise of illiberalism and democratic backsliding by upholding liberal democratic principles at the ballot box? Building on the findings from a previous Ambizione project (2019-2024), this new SNSF-funded project (2025-2029) will investigate the relevance and heterogeneity of mass attitudes towards democracy as a fundamental factor explaining citizens’ responses to emerging threats to liberal democracy. <a href = "#two">The project team</a> will theorize and empirically explore variation in liberal democratic commitment as a way to resolve the apparent paradox between mass support for democracy and citizens’ differential willingness to tolerate or even openly endorse political actors who challenge core principles of liberal democracy. The project will tackle three dimensions:</p>
 		<div class="features">
 			<section>
-				<span class="icon major fa-code"></span>
+				<span class="icon major fa-compass"></span>
 				<h3>Measuring and mapping liberal democratic commitment (Working Package 1)</h3>
 				<p>How can we measure the shape and heterogeneity of citizens’ liberal democratic commitment? Which types of democrats can be distinguished and what are their main characteristics? How are these types distributed across different European countries?</p>
 				<h4>Preprints and preregistrations</h4>
@@ -37,17 +37,17 @@ title: Hyperspace by HTML5 UP
 				</ul>
 			</section>
 			<section>
-				<span class="icon major fa-lock"></span>
+				<span class="icon major fa-id-card"></span>
 				<h3>Democratic commitment as political identity (Working Package 2)</h3>
 				<p>How does variation in citizens’ democratic commitment relate to their political identities? And to what extent do elections affect the salience of democratic attitudes for citizens’ group identification? </p>
 			</section>
 			<section>
-				<span class="icon major fa-cog"></span>
+				<span class="icon major fa-person-booth"></span>
 				<h3>Behavioural consequences of democratic commitment (Working Package 3)</h3>
 				<p>To what extent do varying levels of liberal democratic commitment affect citizens’ political behaviour?</p>
 			</section>
 			<section>
-				<span class="icon major fa-desktop"></span>
+				<span class="icon major fa-newspaper"></span>
 				<h3>Related Projects by the Team</h3>
 				<ul>
 					<li><strong>N. Wunsch</strong> (2025). <a href= "https://academic.oup.com/book/60927">Democratic Commitment: Why Citizens Tolerate Democratic Backsliding</a>, Oxford University Press, Open Access.</li>
