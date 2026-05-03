@@ -9,7 +9,8 @@ title: Hyperspace by HTML5 UP
 		<!-- <h1>Researching Citizens' Commitment to Liberal Democracy</h1> -->
 		<p>A research project at the University of Fribourg into citizens' democratic attitudes across Europe and how they shape their political identities and behaviour, funded by the <a href="https://data.snf.ch/grants/grant/10005358">Swiss National Science Foundation</a>, and under supervision of <a href="https://www.unifr.ch/directory/en/people/366435/28485">prof. Natasha Wunsch</a>.</p>
 		<ul class="actions">
-			<li><a href="#one" class="button scrolly">Learn more</a></li>
+			<li><a href="#one" class="button scrolly">Learn more about the project</a></li>
+			<li><a href="#two" class="button scrolly">Meet the project team</a></li>
 		</ul>
 	</div>
 </section>
@@ -57,9 +58,6 @@ title: Hyperspace by HTML5 UP
 				</ul>
 			</section>
 		</div>
-		<ul class="actions">
-			<li><a href="#" class="button">Learn more</a></li>
-		</ul>
 	</div>
 </section>
 
