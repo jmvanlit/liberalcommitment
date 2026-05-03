@@ -2579,7 +2579,7 @@
 				}
 
 				.wrapper.style3 .icon.major:before { 
-					color: #DD614A; \\ b74e91 JOEP DEMCOM icon in working packages
+					color: #b74e91;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3253,15 +3253,15 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #410B13; \\ JOEP DEMCOM Purple 5e42a6 
+			background-color: #410B13; \\ JOEP DEMCOM 5e42a6 
 		}
 
 		.wrapper.style1-alt {
-			background-color: #099197; \\ JOEP DEMCOM GREEN 493382 
+			background-color: #410B13; \\ JOEP DEMCOM 493382 
 		}
 
 		.wrapper.style2 {
-			background-color: #DD614A; \\ JOEP DEMCOM ORANGE 5052b5 
+			background-color: #DD614A; \\ JOEP DEMCOM 5052b5 
 		}
 
 		.wrapper.style2-alt {
@@ -3269,7 +3269,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #099197; \\ JOEP DEMOCOM GREEN b74e91 
+			background-color: #410B13; \\ JOEP DEMCOM b74e91 
 		}
 
 		.wrapper.style3-alt {
@@ -3534,7 +3534,7 @@
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #410B13; \\ JOEP DEMCOM GREEN 312450 
+		background: #410B13; \\ JOEP DEMCOM 312450 
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3775,10 +3775,10 @@
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #005b8d, #099197); \\ #5e42a6, #b74e91 JOEP DEMCOM gradient in the sidebar links
-				background-image: -webkit-linear-gradient(to right, #005b8d, #099197); \\ #5e42a6, #b74e91 JOEP DEMCOM gradient in the sidebar links
-				background-image: -ms-linear-gradient(to right, #005b8d, #099197); \\ #5e42a6, #b74e91 JOEP DEMCOM gradient in the sidebar links
-				background-image: linear-gradient(to right, #005b8d, #099197); \\ #5e42a6, #b74e91 JOEP DEMCOM gradient in the sidebar links
+				background-image: -moz-linear-gradient(to right, #ffff00, #00ffff); \\ #5e42a6, #b74e91 JOEP DEMCOM gradient in the sidebar links
+				background-image: -webkit-linear-gradient(to right, #ffff00, #00ffff); \\ #5e42a6, #b74e91 JOEP DEMCOM gradient in the sidebar links
+				background-image: -ms-linear-gradient(to right, #ffff00, #00ffff); \\ #5e42a6, #b74e91 JOEP DEMCOM gradient in the sidebar links
+				background-image: linear-gradient(to right, #ffff00, #00ffff); \\ #5e42a6, #b74e91 JOEP DEMCOM gradient in the sidebar links
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
