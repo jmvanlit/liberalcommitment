@@ -22,7 +22,7 @@ title: Hyperspace by HTML5 UP
 		<p>Liberal democracy is under pressure worldwide. Illiberal actors are gaining support for a platform that directly challenges some central liberal democratic principles. Where such actors gain access to government, they frequently proceed to dismantle executive and erode democracy. So why do citizens often fail to resist the simultaneous rise of illiberalism and democratic backsliding by upholding liberal democratic principles at the ballot box? Building on the findings from a previous Ambizione project (2019-2024), this new SNSF-funded project (2025-2029) will investigate the relevance and heterogeneity of mass attitudes towards democracy as a fundamental factor explaining citizens’ responses to emerging threats to liberal democracy. <a href = "#two">The project team</a> will theorize and empirically explore variation in liberal democratic commitment as a way to resolve the apparent paradox between mass support for democracy and citizens’ differential willingness to tolerate or even openly endorse political actors who challenge core principles of liberal democracy.</p>
 		<div class="features">
 			<section>
-				<span class="icon major fa-compass"></span>
+				<span class="icon major fa-adjust"></span>
 				<h3>Measuring and mapping liberal democratic commitment (Working Package 1)</h3>
 				<p>How can we measure the shape and heterogeneity of citizens’ liberal democratic commitment? Which types of democrats can be distinguished and what are their main characteristics? How are these types distributed across different European countries?</p>
 				<!-- <h4>Preprints and preregistrations</h4>
@@ -42,14 +42,14 @@ title: Hyperspace by HTML5 UP
 				<p>How does variation in citizens’ democratic commitment relate to their political identities? And to what extent do elections affect the salience of democratic attitudes for citizens’ group identification? </p>
 			</section>
 			<section>
-				<span class="icon major fa-desktop"></span>
+				<span class="icon major fa-bar-chart"></span>
 				<h3>Behavioural consequences of democratic commitment (Working Package 3)</h3>
 				<p>To what extent do varying levels of liberal democratic commitment affect citizens’ political behaviour?</p>
 			</section>
 			<section>
-				<span class="icon major fa-database"></span>
-				<h3>Data and Methods</h3>
-				<p>Throughout the project, we use a multi-method approach. In the Summer of 2026, we are conducting 16 focus groups in Italy, France, Poland, and Finland. Building on this, we construct a comparative panel survey in Italy, France, Poland, Finland, the Netherlands, Germany, ..., and .... In that survey, we integrate a novel multidimensional measure of citiznes' commitment to liberal democracy.</p>
+				<span class="icon major fa-globe"></span>
+				<h3>Country selection</h3>
+				<p>We take a comparative, cross-country approach and study citizens' commitment in Italy, France, Poland, Finland, the Netherlands, Germany, ..., and ....</p>
 			</section>
 		</div>
 	</div>
