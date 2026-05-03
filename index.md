@@ -68,7 +68,7 @@ title: Hyperspace by HTML5 UP
 		<div class="content">
 			<div class="inner">
 				<h2>prof. Natasha Wunsch</h2>
-				<p><strong>Principal Investigator</strong>. Natasha Wunsch is Professor for European Studies and and PI of the SNSF-funded project "Liberal Democratic Commitment in Europe" (LibDemEU). Her research focuses on democratisation and democratic backsliding and combines survey-based approaches, discourse analysis and comparative methods including focus groups and interviews. </p>
+				<p><strong>Principal Investigator</strong>. Natasha Wunsch is Professor for European Studies and and PI of the SNSF-funded project "Liberal Democratic Commitment in Europe" (DEMCOM). Her research focuses on democratisation and democratic backsliding and combines survey-based approaches, discourse analysis and comparative methods including focus groups and interviews. </p>
 				<ul class="actions">
 					<li><a href="https://www.unifr.ch/directory/en/people/366435/28485" class="button special">Visit Natasha's UniFr-profile</a></li>
 					<li><a href="mailto:natasha.wunsch@unifr.ch" class="button">Contact Natasha</a></li>
