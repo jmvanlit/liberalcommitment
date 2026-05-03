@@ -25,7 +25,7 @@ title: Hyperspace by HTML5 UP
 				<span class="icon major fa-compass"></span>
 				<h3>Measuring and mapping liberal democratic commitment (Working Package 1)</h3>
 				<p>How can we measure the shape and heterogeneity of citizens’ liberal democratic commitment? Which types of democrats can be distinguished and what are their main characteristics? How are these types distributed across different European countries?</p>
-				<h4>Preprints and preregistrations</h4>
+				<!-- <h4>Preprints and preregistrations</h4>
 				<ul>
 					<li><a href="#">Preprint title 1</a></li>
 					<li><a href="#">Preprint title 2</a></li>
@@ -34,10 +34,10 @@ title: Hyperspace by HTML5 UP
 				<ul>
 					<li><a href="#">Publication title 1</a></li>
 					<li><a href="#">Publication title 2</a></li>
-				</ul>
+				</ul> -->
 			</section>
 			<section>
-				<span class="icon major fa-id-card"></span>
+				<span class="icon major fa-id-card-o"></span>
 				<h3>Democratic commitment as political identity (Working Package 2)</h3>
 				<p>How does variation in citizens’ democratic commitment relate to their political identities? And to what extent do elections affect the salience of democratic attitudes for citizens’ group identification? </p>
 			</section>
