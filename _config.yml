@@ -19,7 +19,7 @@ github_url:
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
-linkedin_url: https://www.linkedin.com/jmvanlit
+linkedin_url:
 pinterest_url: 
 slack_url: 
 twitter_url: 
@@ -29,7 +29,7 @@ markdown: kramdown
 
 # Plugin: jekyll-seo-tag
 twitter:
-  username: andrewbanchich
+  username: 
 # Add one or more of the following
 facebook:
   app_id: 
