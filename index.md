@@ -103,7 +103,7 @@ title: Hyperspace by HTML5 UP
 		</div>
 	</section>
 	<section>
-		<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
+		<a href="#" class="image"><img src="images/hannah-groennou.jpg" alt="" data-position="25% 25%" /></a>
 		<div class="content">
 			<div class="inner">
 				<h2>Hannah Groennou, MSc</h2>
