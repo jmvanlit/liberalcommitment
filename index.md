@@ -7,7 +7,7 @@ title: Hyperspace by HTML5 UP
 	<div class="inner">
 		<img src="images/logo-light.png" alt="DEMCOM - Université de Fribourg" style="max-width: 70%; margin-bottom: 1.5rem; display: block;" />
 		<!-- <h1>Researching Citizens' Commitment to Liberal Democracy</h1> -->
-		<p>A research project at the University of Fribourg into citizens' commitment to liberal democracy across Europe, funded by the <a href="https://data.snf.ch/grants/grant/10005358">Swiss National Science Foundation</a>, and under supervision of <a href="https://www.unifr.ch/directory/en/people/366435/28485">prof. Natasha Wunsch</a>.</p>
+		<p>A research project at the University of Fribourg into citizens' democratic attitudes across Europe and how they shape their political identities and behaviour, funded by the <a href="https://data.snf.ch/grants/grant/10005358">Swiss National Science Foundation</a>, and under supervision of <a href="https://www.unifr.ch/directory/en/people/366435/28485">prof. Natasha Wunsch</a>.</p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more</a></li>
 		</ul>
@@ -18,12 +18,12 @@ title: Hyperspace by HTML5 UP
 <section id="one" class="wrapper style3 fade-up">
 	<div class="inner">
 		<h2>The research project</h2>
-		<p>Some generic description. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
+		<p>Liberal democracy is under pressure worldwide. Illiberal actors are gaining support for a platform that directly challenges some central liberal democratic principles. Where such actors gain access to government, they frequently proceed to dismantle executive and erode democracy. So why do citizens often fail to resist the simultaneous rise of illiberalism and democratic backsliding by upholding liberal democratic principles at the ballot box? Building on the findings from a previous Ambizione project (2019-2024), this new SNSF-funded project (2025-2029) will investigate the relevance and heterogeneity of mass attitudes towards democracy as a fundamental factor explaining citizens’ responses to emerging threats to liberal democracy. The project team will theorize and empirically explore variation in liberal democratic commitment as a way to resolve the apparent paradox between mass support for democracy and citizens’ differential willingness to tolerate or even openly endorse political actors who challenge core principles of liberal democracy. The project will tackle three dimensions:</p>
 		<div class="features">
 			<section>
 				<span class="icon major fa-code"></span>
-				<h3>Working Package 1</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<h3>Measuring and mapping liberal democratic commitment (Working Package 1)</h3>
+				<p>How can we measure the shape and heterogeneity of citizens’ liberal democratic commitment? Which types of democrats can be distinguished and what are their main characteristics? How are these types distributed across different European countries?</p>
 				<h4>Preprints and preregistrations</h4>
 				<ul>
 					<li><a href="#">Preprint title 1</a></li>
