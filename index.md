@@ -115,6 +115,7 @@ title: Hyperspace by HTML5 UP
 <section id="three" class="wrapper style2 fade-up">
 	<div class="inner">
 		<h2>Related Projects by the Team</h2>
+		<p>The team works on a broad set of research questions. You can find all their publications on their personal profiles and websites. Here, you will find a selection of their research that directly taps into **citizens' commitment to liberal democracy**. When research is not available Open Access, feel free to contact us so we can send you a copy!</p>
 		<ul>
 			<li><strong>N. Wunsch</strong> (2025). <a href="https://academic.oup.com/book/60927">Democratic Commitment: Why Citizens Tolerate Democratic Backsliding</a>, Oxford University Press, Open Access.</li>
 			<li><strong>N. Wunsch</strong>, M. Jacob, and L. Derksen (2025) <a href="https://doi.org/10.1017/S0007123424000711">The Demand Side of Democratic Backsliding: How Divergent Understandings of Democracy Shape Political Choice</a>, British Journal of Political Science, Open Access.</li>
