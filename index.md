@@ -75,7 +75,7 @@ title: Hyperspace by HTML5 UP
 		<div class="content">
 			<div class="inner">
 				<h2>Daniel Sandu, PhD</h2>
-				<p><strong>Postdoctoral Researcher</strong>. Dani Sandu completed his PhD at the European University Institute (Florence, Italy) and studies social and political identities. He uses experimental and quasi-experimental methods and am also a skeptical user of text-as-data approaches.</p>
+				<p><strong>Postdoctoral Researcher</strong>. Dani Sandu completed his PhD at the European University Institute (Florence, Italy) and studies social and political identities. He uses experimental and quasi-experimental methods and is also a skeptical user of text-as-data approaches.</p>
 				<ul class="actions">
 					<li><a href="https://www.danisandu.eu/" class="button special">Visit Dani's personal website</a></li>
 					<li><a href="mailto:daniel.sandu@unifr.ch" class="button">Contact Dani</a></li>
