@@ -9,7 +9,7 @@
 title: Democratic Commitment | A Research Project at the University of Fribourg
 email: joep.vanlit@ru.nl
 \description: A research project into citizens' democratic attitudes across Europe and how they shape their political identities and behaviour
-baseurl: "/liberalcommitment" # the subpath of your site, e.g. /blog
+baseurl: "/democratic-commitment" # the subpath of your site, e.g. /blog
 url: "https://jmvanlit.github.io/" # the base hostname & protocol for your site
 
 # Social settings
