@@ -3253,15 +3253,15 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #410B13; \\ JOEP DEMCOM 5e42a6 
+			background-color: #410B13; \\ JOEP DEMCOM 5e42a6 Intro
 		}
 
 		.wrapper.style1-alt {
-			background-color: #410B13; \\ JOEP DEMCOM 493382 
+			background-color: #410B13; \\ JOEP DEMCOM 493382 Footer
 		}
 
 		.wrapper.style2 {
-			background-color: #DD614A; \\ JOEP DEMCOM 5052b5 
+			background-color: #DD614A; \\ JOEP DEMCOM 5052b5 Projects and About
 		}
 
 		.wrapper.style2-alt {
@@ -3771,7 +3771,7 @@
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				background: #410B13; \\ JOEP DEMCOM lines under the sidebar headings 3c2c62
 			}
 
 			#sidebar nav a:after {
